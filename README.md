@@ -26,8 +26,8 @@ Time Complexity
 
 ## Linked List
 
-Singly Linked List
-Doubly Linked List
+* Singly Linked List
+* Doubly Linked List
 Circular Linked List
 Circular Doubly Linked List
 
