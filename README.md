@@ -17,64 +17,64 @@ Instructor
 ## Saurabh Shukla
 
 ## Data Structures and its Implementation
-Introduction to Data Structures
-Why you should learn data structure?
-use case of data structure
-Why product based companies focus on data structure
-Asymptotic Notations
-Time Complexity
+- Introduction to Data Structures
+- Why you should learn data structure?
+- use case of data structure
+- Why product based companies focus on data structure
+- Asymptotic Notations
+- Time Complexity
 
 ## Linked List
 
-* Singly Linked List
-* Doubly Linked List
-Circular Linked List
-Circular Doubly Linked List
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+- Circular Doubly Linked List
 
 ## Stack and Queue
-Stack Introduction
-Implementation of Stack
-Queue Introduction
-Implementation of Queue
-Deque – Double Ended Queue
-Priority Queue
+- Stack Introduction
+- Implementation of Stack
+- Queue Introduction
+- Implementation of Queue
+- Deque – Double Ended Queue
+- Priority Queue
 
 ## Recursion and Backtracking
-Recursion Basics
-Approach to solve recursive problems
-Recursion vs iteration
-Types of recursion
+- Recursion Basics
+- Approach to solve recursive problems
+- Recursion vs iteration
+- Types of recursion
 
 ## Sorting
-Bubble Sort
-Modified Bubble Sort
-Selection Sort
-Insertion Sort
-Quick Sort
-Merge Sort
+- Bubble Sort
+- Modified Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
 
 ## Searching and Hashing
-Linear Search
-Binary Search
-Hashing
+- Linear Search
+- Binary Search
+- Hashing
 
 ## Tree
-Binary Tree
-Types of Binary Tree
-Binary Search Tree
-Implementation of Binary Search Tree
+- Binary Tree
+- Types of Binary Tree
+- Binary Search Tree
+- Implementation of Binary Search Tree
 
 ## Heap
-Heap Introduction
-Implementation of Heap
-Heap Sort
+- Heap Introduction
+- Implementation of Heap
+- Heap Sort
 
 ## Graph
-Graph Concept
-Graph Representation
-BFS and DFS
+- Graph Concept
+- Graph Representation
+- BFS and DFS
 
 ## Types of Algorithms
-Divide and Conquer
-Greedy Method
-Dynamic Programming
+- Divide and Conquer
+- Greedy Method
+- Dynamic Programming
