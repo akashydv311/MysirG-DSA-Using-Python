@@ -2,7 +2,7 @@
 
 DSA using Python | ONLINE LIVE Classes
 
-### Prerequisite
+## Prerequisite
 
 You must know Python Language, specially Classes and Objects, Data types, functions, control statements, etc.
 For online LIVE classes, you must have an account at https://premium.mysirg.com | it’s free to create.
