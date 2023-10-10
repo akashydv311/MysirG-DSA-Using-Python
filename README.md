@@ -14,11 +14,9 @@ Duration
 10 Oct 2023 to 20 Dec 2023 | Mon-Tue-Wed-Thu at 6:30 PM to 7:30 PM
 Instructor
 
-### Saurabh Shukla
+## Saurabh Shukla
 
-
-#### Data Structures and its Implementation
-
+## Data Structures and its Implementation
 Introduction to Data Structures
 Why you should learn data structure?
 use case of data structure
@@ -26,17 +24,13 @@ Why product based companies focus on data structure
 Asymptotic Notations
 Time Complexity
 
-
-#### Linked List
-
+## Linked List
 Singly Linked List
 Doubly Linked List
 Circular Linked List
 Circular Doubly Linked List
 
-
-#### Stack and Queue
-
+## Stack and Queue
 Stack Introduction
 Implementation of Stack
 Queue Introduction
@@ -44,17 +38,13 @@ Implementation of Queue
 Deque – Double Ended Queue
 Priority Queue
 
-
-#### Recursion and Backtracking
-
+## Recursion and Backtracking
 Recursion Basics
 Approach to solve recursive problems
 Recursion vs iteration
 Types of recursion
 
-
-#### Sorting
-
+## Sorting
 Bubble Sort
 Modified Bubble Sort
 Selection Sort
@@ -62,40 +52,28 @@ Insertion Sort
 Quick Sort
 Merge Sort
 
-
-#### Searching and Hashing
-
+## Searching and Hashing
 Linear Search
 Binary Search
 Hashing
 
-
-#### Tree
-
+## Tree
 Binary Tree
 Types of Binary Tree
 Binary Search Tree
 Implementation of Binary Search Tree
 
-
-#### Heap
-
+## Heap
 Heap Introduction
 Implementation of Heap
 Heap Sort
 
-
-#### Graph
-
+## Graph
 Graph Concept
 Graph Representation
 BFS and DFS
 
-
-#### Types of Algorithms
-
+## Types of Algorithms
 Divide and Conquer
 Greedy Method
 Dynamic Programming
-
-
