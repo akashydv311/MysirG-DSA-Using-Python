@@ -40,12 +40,19 @@ class SLL:
             temp = temp.next
         # search fail / empty list
         return None
-
-        
-
     
+    def print_list(self):
+        temp = self.start
+        while(temp != None):
+            print(temp.iteam, end=' ')
+            temp = temp.next
+
 # Driver Code
 mylist = SLL()
+mylist.insert_at_start(23)
+mylist.insert_at_last(78)
+mylist.insert_at_start(89)
+mylist.print_list()
 
 
 
